@@ -18,6 +18,10 @@ This implementation provides a Node.js application for user authentication and a
 - Bcrypt
 - Dotenv
 
+### Learning Resources
+#### Postman Api (https://www.postman.com/)
+#### JWT (https://jwt.io/)
+
 ## API Endpoints
 **POST** /api/auth/register: Register a new user <br>
 **POST** /api/auth/login: Login and receive a JWT <br>
