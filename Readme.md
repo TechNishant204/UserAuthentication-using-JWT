@@ -2,6 +2,8 @@
 
 A Node.js application using Express.js, Mongoose, and JWT for user authentication and authorization with Bearer tokens.
 
+### Published Postman Collection: <a href="https://documenter.getpostman.com/view/21245283/2sAYkGKKHo">View Here</a>
+
 ## Features
 - User registration with password hashing
 - User login with JWT generation
