@@ -4,13 +4,13 @@ This implementation provides a Node.js application for user authentication and a
 
 ### Published Postman Collection: <a href="https://documenter.getpostman.com/view/21245283/2sAYkGKKHo">View Here</a>
 ![image](https://github.com/user-attachments/assets/9569ab76-f253-4905-897a-6cdc01c5f498)
-
+<br>
 
 ## Features
-**User Registration**: Register a new user with hashed passwords.
-**User Login**: Authenticate users and return a JWT.
-**Protected Route**: Retrieve user information using a verified JWT.
-**API Documentation**: Detailed endpoints with sample requests and responses in Postman.
+**User Registration**: Register a new user with hashed passwords. <br>
+**User Login**: Authenticate users and return a JWT.<br>
+**Protected Route**: Retrieve user information using a verified JWT.<br>
+**API Documentation**: Detailed endpoints with sample requests and responses in Postman.<br>
 
 ## Technologies Used
 - Node.js
