@@ -63,7 +63,8 @@ UserAuthentication/
 
 
 ### GET User
-[<img src="" alt="fetchAccountTest">](https://github.com/TechNishant204/UserAuthentication-using-JWT/blob/master/Screenshots/fetchUserByToken.png)
+![createAccountTest](https://github.com/TechNishant204/UserAuthentication-using-JWT/blob/master/Screenshots/fetchUserByToken.png)
+
 
 ## Setup Instructions
 1. Clone the repository:
