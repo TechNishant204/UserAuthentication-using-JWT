@@ -52,6 +52,17 @@ UserAuthentication/
 ├── package.json          # Project dependencies and scripts
 └── README.md             # Project documentation
 ```
+## Testing after Deploying my project on Render
+### Create Account
+![createAccountTest](https://github.com/TechNishant204/UserAuthentication-using-JWT/blob/master/Screenshots/createAccount.png)
+
+### Login Account
+![createAccountTest](https://github.com/TechNishant204/UserAuthentication-using-JWT/blob/master/Screenshots/login.png)
+
+
+### GET User
+[<img src="" alt="fetchAccountTest">](https://github.com/TechNishant204/UserAuthentication-using-JWT/blob/master/Screenshots/fetchUserByToken.png)
+
 ## Setup Instructions
 1. Clone the repository:
    ```bash
