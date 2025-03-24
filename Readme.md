@@ -3,6 +3,8 @@
 This implementation provides a Node.js application for user authentication and authorization using Bearer tokens. It follows the MVC pattern, uses MongoDB with Mongoose for data storage, and includes JWT for secure authentication. The code is modular, with separate files for major functions, and includes API documentation via Postman.
 
 ### Published Postman Collection: <a href="https://documenter.getpostman.com/view/21245283/2sAYkGKKHo">View Here</a>
+![image](https://github.com/user-attachments/assets/9569ab76-f253-4905-897a-6cdc01c5f498)
+
 
 ## Features
 **User Registration**: Register a new user with hashed passwords.
